@@ -1,0 +1,7 @@
+Este aplicativo é uma plataforma simples de upload de arquivos. Ele permite que os usuários façam o upload de arquivos PDF e imagens, organizando-os em categorias. O app possui duas seções principais:
+
+    Formulário de Cadastro: Onde o usuário preenche informações como nome, cidade, endereço, telefone e email. Além disso, ele pode selecionar e fazer upload de arquivos.
+
+    Seção de Arquivos Enviados: Exibe os arquivos que já foram enviados pelo usuário, categorizados em PDFs e imagens, permitindo também a visualização prévia desses arquivos.
+
+Para executar a aplicação basta extrair os arquivos em uma pasta e abrir o index.html. Ou acessar: https://codepen.io/zcngblll-the-solid/pen/LYwpPqZ
